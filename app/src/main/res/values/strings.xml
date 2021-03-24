@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Guess the Car</string>
+    <string name="guess_the_car_title">GUESS THE CAR</string>
+    <string name="identify_the_car_make_btn">Identify the car make</string>
+    <string name="hints_btn">Hints</string>
+    <string name="identify_the_car_image_btn">Identify the Car Image</string>
+    <string name="advanced_level_btn">Advanced Level</string>
+    <string name="credit_text">Made By Christian Acheampong - W1730101 \n Developed on a Huawei Mate 20 lite</string>
+
+    <string-array name="carMakes">
+        <item>BMW</item>
+        <item>Tesla</item>
+        <item>Ford</item>
+        <item>Audi</item>
+        <item>Honda</item>
+        <item>Nissan</item>
+        <item>Porsche</item>
+        <item>Mitsubishi</item>
+        <item>Maserati</item>
+        <item>Jaguar</item>
+    </string-array>
+</resources>
